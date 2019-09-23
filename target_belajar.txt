@@ -3,3 +3,5 @@ Selasa: SIM (Sistem Informasi Manajemen)
 
 Kamis: GNS 3
 Jumat: Tiger DB
+Sabtu : Usthon Tugas kelompok UI
+Minggu : Usthon Tugas kelompok basis data lanjut
