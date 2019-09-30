@@ -6,3 +6,7 @@ Kamis: GNS 3
 Jumat: Triger DB
 Sabtu: Usthon Tugas Kelompok UI
 Minggu: Usthon Tugas Kelompok Basis Data Lanjut
+
+
+
+INI FILE DI BRANCH
